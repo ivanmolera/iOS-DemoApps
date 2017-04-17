@@ -1,0 +1,24 @@
+/* 
+  Localizable.strings
+  AVPCDemo
+
+  Created by IVAN MOLERA on 6/11/16.
+  Copyright © 2016 AVPC. All rights reserved.
+*/
+"Menu"                          = "Menú";
+"Main"                          = "Inicio";
+"News"                          = "Noticias";
+"Alert"                         = "Alerta";
+"Alerts"                        = "Alertas";
+"Map"                           = "Mapa";
+"Volunteers"                    = "Voluntarios";
+"Vehicles"                      = "Vehículos";
+"Comments"                      = "Comentarios";
+"Calendar"                      = "Calendario";
+"Config"                        = "Config";
+"Exit"                          = "Salir";
+"EmptyEmail"                    = "Debes proporcionar un e-mail válido";
+"EmptyEmailOrPassword"          = "Debes proporcionar un e-mail y contraseña válidos";
+"EmailPasswordSent"             = "Recibirás un e-mail con instrucciones para reiniciar tu contraseña";
+"PleaseWait"                    = "Por favor, espera...\n\n\n\n";
+"NoDataYet"                     = "Sin datos que mostrar. Arrastra hacia abajo para actualizar.";

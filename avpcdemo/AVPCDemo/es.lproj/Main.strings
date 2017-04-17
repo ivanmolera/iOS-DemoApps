@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Exit"; ObjectID = "84c-2t-7RI"; */
+"84c-2t-7RI.text" = "Salir";
+
+/* Class = "UILabel"; text = "News Frontpage"; ObjectID = "8xm-Wa-eHS"; */
+"8xm-Wa-eHS.text" = "Noticias";
+
+/* Class = "UITextField"; placeholder = "Your email"; ObjectID = "Aac-uS-oq4"; */
+"Aac-uS-oq4.placeholder" = "Tu email";
+
+/* Class = "UILabel"; text = "Config"; ObjectID = "EfW-ye-PfR"; */
+"EfW-ye-PfR.text" = "Configuración";
+
+/* Class = "UILabel"; text = "Comments"; ObjectID = "M67-Ze-xvN"; */
+"M67-Ze-xvN.text" = "Comentarios";
+
+/* Class = "UILabel"; text = "Calendar"; ObjectID = "YTK-Np-Oip"; */
+"YTK-Np-Oip.text" = "Calendario";
+
+/* Class = "UILabel"; text = "AVPC Demo"; ObjectID = "bmC-b8-tgK"; */
+"bmC-b8-tgK.text" = "AVPC Demo";
+
+/* Class = "UITextField"; placeholder = "Your password"; ObjectID = "c8s-wg-3b4"; */
+"c8s-wg-3b4.placeholder" = "Tu contraseña";
+
+/* Class = "UILabel"; text = "News"; ObjectID = "cEh-w7-uj4"; */
+"cEh-w7-uj4.text" = "Noticias";
+
+/* Class = "UILabel"; text = "Vehicles"; ObjectID = "eTX-XK-zJd"; */
+"eTX-XK-zJd.text" = "Vehículos";
+
+/* Class = "UILabel"; text = "Map"; ObjectID = "mBb-mT-oGs"; */
+"mBb-mT-oGs.text" = "Mapa";
+
+/* Class = "UILabel"; text = "Volunteers"; ObjectID = "mGz-5R-GVQ"; */
+"mGz-5R-GVQ.text" = "Voluntarios";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "uQq-Zg-s1f"; */
+"uQq-Zg-s1f.normalTitle" = "¿Olvidaste tu contraseña?";
+
+/* Class = "UIViewController"; title = "Reveal View Controller"; ObjectID = "vXZ-lx-hvc"; */
+"vXZ-lx-hvc.title" = "Reveal View Controller";
+
+/* Class = "UITableViewController"; title = "Menu View Controller"; ObjectID = "x2r-rU-PsL"; */
+"x2r-rU-PsL.title" = "Menu View Controller";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "zSk-3O-Ya0"; */
+"zSk-3O-Ya0.normalTitle" = "Entrar";
